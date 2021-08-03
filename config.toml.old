@@ -1,0 +1,4 @@
+baseURL = "https://iorgos.net/"
+languageCode = "en-us"
+title = "iorgos.net"
+theme = "cactus"
