@@ -10,7 +10,7 @@ keywords:
     - viteza
     - accident
 ---
-![Bubu(/images/bubu.jpg)
+![Bubu](/images/bubu.jpg)
 
 Această „pagină” din jurnal este, în fapt, o defulare (scrisă cu un mare nod în gât, la oră târzie din noaptea de după incident, stăpânit fiind de o încordare constantă combinată cu furie, regret și recunoștință). Trăiri probabil normale în urma unui șoc care nu a avut un final realmente tragic. Nu am pe unde vărs cuvintele astea, așa că le voi lăsa pe-aici, pentru posteritate. Poate experiența în cauză va fi utilă și altora, cumva.
 

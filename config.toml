@@ -20,7 +20,7 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "My Homelab"
+name = "Homelab"
 url = "/homelab"
 weight = 3
 
@@ -32,15 +32,10 @@ weight = 4
 [[menu.main]]
 name = "Tags"
 url = "/tags"
-weight = 7
-
-[[menu.main]]
-name = "About"
-url = "/about"
 weight = 6
 
 [[menu.main]]
-name = "My CV"
+name = "CV"
 url = "/cv"
 weight = 5
 
@@ -68,7 +63,7 @@ weight = 5
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hi, I'm Dragoș, a computer enthusiast from Bucharest! While not in front of a computer screen, I spend my time together with my family, going on hikes, tinkering bicycles or playing with synthesizers and acoustic toys. I mainly use and love Linux (Debian-based, to be more precise), but FreeBSD has a very special place in the geeky part of my heart. Windows systems (both server and workstation) are not foreign to me and nor are: Python, virtualization (VMWare ESXi, MS Hyper-V, libvirt/kvm/qemu) and a bit of C. I tend to have an itch for embedded systems and obscure operating systems (QNX, Haiku, Plan 9 from Bell Labs, etc.). Have been involved in Software Testing and Test Automation for quite some time, in various forms, but extended my reach into Systems Administration (mainly for test lab management) and DevOps. Currently studying DevOps & Security. This is my personal webspace."
+  description = "Hi! I'm Dragoș, a computer enthusiast from Bucharest. While not in front of a computer screen, I spend my time together with my family, being outdoors, tinkering bicycles or playing with synthesizers and acoustic toys. I mainly use and love Linux (Debian-based distros are my favs), but FreeBSD has a very special place in the geeky part of my heart. Windows systems (both server and workstation) are not foreign to me and nor are: Python, virtualization (VMWare ESXi, MS Hyper-V, libvirt/kvm/qemu) and a bit of C. I have an itch for embedded systems and obscure operating systems (QNX, Haiku, Plan 9 from Bell Labs, etc.). Have been involved in Software Testing and Test Automation for quite some time, in various forms, but extended my reach into Systems Administration (mainly for test lab management) and DevOps. Currently studying DevOps & Security. This is my personal webspace."
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -91,16 +86,19 @@ weight = 5
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/diorgulescu"
   [[params.social]]
     name = "reddit"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://www.reddit.com/user/scentient_pencils"
   [[params.social]]
     name = "stack-overflow"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://stackoverflow.com/users/3049931/diorgulescu"
   [[params.social]]
     name = "linkedin"
-    link = "https://www.linkedin.com/company/github/"
+    link = "https://www.linkedin.com/in/dragos-iorgulescu-77a7a2155/"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://mastodon.social/@diorgulescu"
   [[params.social]]
     name = "email"
     link = "dragos@iorgos.net"  # no need for "mailto:" in the head

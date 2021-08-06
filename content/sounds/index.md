@@ -14,20 +14,21 @@ Below is a list of some music I’ve made over the last decade (older attempts c
 
 ## Scentient Pencils 
 The name under which I sometimes put out various recordings or live sessions. This was “born” at the beginning of 2020, while doing some experimental ambient sounds in my living room. Mainly revolving around synths, some acoustics, sound textures, ambient soundscapes and field recordings.
-+ YouTube Channel
-+ Bandcamp page
++ [YouTube Channel](https://www.youtube.com/channel/UCMUYR9Kyk4JZxifm84lW7Bg)
++ [Bandcamp page](https://scentientpencils.bandcamp.com)
 
 ## Sentem 
 My former solo project which was active between 2011 and 2016. Most of the material here is focused on drone rock, drone metal, dark ambient and some experimental stuff here and there. There’s even a black metal track on one of the later EPs. I used guitars, basses, synths and (occasionally drum programming). Probably my favorite output tends to be the “Alean” EP (November 2014), which is a mix of dark ambient, droney guitars and some folk influences. I called this project an end when I started to move more into experimental electronics.
-+ Bandcamp page
++ [Bandcamp page](https://sentem.bandcamp.com)
     
 ## Versta 
-A short-lived moniker. The most notable recording is that of a live experimental electronica session that you may listen to here
+A short-lived moniker. The most notable recording is that of a live experimental electronica session that [you may listen to here](https://soundcloud.com/deep-roller-rec/versta-septentrionalica).
 
 ## Soul Overload  
-Quite a cheesy teenage name, but I guess it was what it was. My first attempts at solo recordings, somewhere between 2008 and 2010. Three (awful) tracks survive on archive.org. You can listen to them here
+Quite a cheesy teenage name, but I guess it was what it was. My first attempts at solo recordings, somewhere between 2008 and 2010. Three (awful) tracks survive on archive.org. You can listen to them [here](https://archive.org/details/souloverload-dystopia).
 
 ## Tulbur 
 A project (and a true band at some point) started with two good friends and colleagues, in 2009. Some grungey-Tool-like influences here and there. I played bass and, occasionally, drums. Eventually, after we performed live once in a local pub, we kinda disbanded, leaving me and the lead guitarist (who was also doing the vocals) to try stuff out. And we did for a couple of years, even came up with a few recordings:
 
-+ “Green, Yellow, Brown” - me on drums
++ [“Green, Yellow, Brown”](https://soundcloud.com/ciprian-lazar/green-yellow-brown) - me on drums
++ ["DOSP"](https://soundcloud.com/ciprian-lazar/dosp)
