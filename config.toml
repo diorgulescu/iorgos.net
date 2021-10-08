@@ -36,7 +36,7 @@ theme = "smol"
 # Footer
   [[menu.footer]]
         name = "E-mail"
-        url = "malto:dragos@iorgos.net"
+        url = "mailto:dragos@iorgos.net"
         weight = 1   
   [[menu.footer]]
         name = "Github"
