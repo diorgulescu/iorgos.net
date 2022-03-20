@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang=${LANG%%_*}>
+
+<head>
+<meta charset=${LANG##*.}>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Dragoș Iorgulescu</title>
+<link rel=stylesheet
+href=s.css?$(lmt -f '%Y-%m-%dT%H:%M:%SZ' s.css | cut -d' ' -f1)>
+
+</head>
+
+<body>
+<div id="header">
+<a id="title" href="/"><h1>Dragoș Iorgulescu</h1></a>
+</div>
+
+<div id="content">
+#!
+pp "$1"
+#!
+</div>
+</body>
+
+<footer>
+<hr/>
+<a href="mailto:dragos@iorgos.net">E-Mail</a> | <a href="https://github.com/diorgulescu">GitHub</a> | <a href="https://twitter.com/cibiliciceanu">Twitter</a> | <a href="https://www.linkedin.com/in/drago%C8%99-iorgulescu-77a7a2155/"> LinkedIn</a> <br/>
+Built with <a href="https://mkws.sh">mkws</a>. Hosted on <a href="https://my.namebox.ro/aff.php?aff=505">namebox.ro</a>.
+</footer>
+</html>
