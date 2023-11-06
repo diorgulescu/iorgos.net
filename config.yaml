@@ -1,6 +1,6 @@
 baseurl: "/"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Just a personal web space"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -16,18 +16,18 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Kettlebell
-      url: "kettlebell/"
-      weight: 2
+        #- name: Kettlebell
+        #url: "kettlebell/"
+        #weight: 2
     - name: Categories
       url: "categories/"
-      weight: 3
+      weight: 2
     - name: Tags
       url: "tags/"
-      weight: 4
+      weight: 3
     - name: Sounds
       url: "sounds/"
-      weight: 5
+      weight: 4
     - name: Subscribe (RSS)
       url: "index.xml"
 
