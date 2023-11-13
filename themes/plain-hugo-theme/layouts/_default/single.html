@@ -1,0 +1,47 @@
+{{ define "main" -}}
+<section class="front-block">
+	<div class="title">
+		{{ if .Params.tags -}}
+		<div class="tags">
+			Tags: {{ range .Params.tags -}}
+			<span class="tag"><a href="{{ "/tags/" | relURL }}{{ . | urlize }}">#{{ . }}</a></span>
+			{{ end -}}
+		</div>
+		{{ end -}}
+		<span class="divider"></span>
+		<div>
+			Author: Angelo R.
+		</div>
+	</div>
+	<div class="meta">
+		{{ if .Date -}}
+		<div>Pub: {{ .Date.Format "2006-01-02" }}</div>
+		{{ end -}}
+		<span class="divider"></span>
+		<div>
+			{{ .WordCount }} words
+		</div>
+	</div>
+	<div class="toc-block">
+		<h1 class="nocount">{{ .Title }}</h1>
+		<aside class="toc">{{ .TableOfContents }}</aside>
+	</div>
+</section>
+<section class="content">
+	{{ .Content -}}
+</section>
+{{ if .Site.Params.utterances -}}
+<section class="comments">
+	<h2 class="nocount">Comments</h2>
+	<script src="https://utteranc.es/client.js"
+			repo={{ .Site.Params.utterances.repo }}
+			issue-term={{ .Site.Params.utterances.issue_term }}
+			label={{ .Site.Params.utterances.label }}
+			theme={{ .Site.Params.utterances.theme }}
+			crossorigin="anonymous"
+			async>
+	</script>
+</section>
+{{end -}}
+{{ end -}}
+

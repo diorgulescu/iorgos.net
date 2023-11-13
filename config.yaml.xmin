@@ -1,0 +1,48 @@
+baseurl: "/"
+languageCode: "en-us"
+title: "Just a personal web space"
+theme: "hugo-xmin"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  note: "/note/:year/:month/:day/:slug/"
+  post: "/post/:year/:month/:day/:slug/"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Kettlebell
+      url: "kettlebell/"
+      weight: 2
+    - name: Categories
+      url: "categories/"
+      weight: 2
+    - name: Tags
+      url: "tags/"
+      weight: 3
+    - name: Sounds
+      url: "sounds/"
+      weight: 4
+    - name: Subscribe (RSS)
+      url: "index.xml"
+
+params:
+  description: "Just a personal web space."
+  footer: "&copy; [Dragoș Iorgulescu](https://iorgos.net) 2018 -- {Year} | [Github](https://github.com/diorgulescu) | [Mastodon](https://mastodon.social/@diorgulescu)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+    tableOfContents: 
+      endLevel: 5
+      ordered: false
+      startLevel: 2
+

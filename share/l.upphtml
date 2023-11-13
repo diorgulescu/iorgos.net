@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang=${LANG%%_*}>
+
+<head>
+<meta charset=${LANG##*.}>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Dragoș Iorgulescu</title>
+<link rel=stylesheet
+href=s.css?$(lmt -f '%Y-%m-%dT%H:%M:%SZ' s.css | cut -d' ' -f1)>
+
+</head>
+
+<body>
+<!--<div id="header">
+<a id="title" href="/"><h1>Dragoș Iorgulescu</h1></a>
+</div>-->
+<ul id="menu">
+	<li id="menu-element"><b><a id="title" href="/">dragoș iorgulescu</a></b></li>
+	<li id="menu-element"><a href="blog.html">blog</a></li> 
+	<li id="menu-element"><a href="kettlebell.html">kettlebell</a></li>
+	<li id="menu-element"><a href="sounds.html">sounds</a></li>
+	<li id="menu-element"><a href="howto.html">how-to</a></li>
+</ul>
+<hr/>
+<div id="content">
+#!
+pp "$1"
+#!
+</div>
+</body>
+
+<footer>
+<hr/>
+<a href="mailto:dragos@iorgos.net">E-Mail</a> | <a rel="me" href="https://mastodon.social/@diorgulescu">Mastodon</a> | <a href="https://github.com/diorgulescu">GitHub</a> | <a href="#">twtxt</a><br/>
+Built with <a href="https://mkws.sh">mkws</a>. Hosted on <a href="https://my.namebox.ro/aff.php?aff=505">namebox.ro</a>.
+</footer>
+</html>
