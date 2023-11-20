@@ -1,6 +1,6 @@
 # Kettlebell
 
-<p align="center"><img src="/images/kb.svg" style="max-width:40%;min-width:40px;" alt="Kettlebells" /></p>
+<p align="center"><img src="images/kb.svg" style="max-width:40%;min-width:40px;" alt="Kettlebells" /></p>
 
 > **гиря [ghiria]**: 
 *greutate, halteră* - conform *https://dictionar.md*, *„Dicționar rus-moldo/român”*
