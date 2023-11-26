@@ -1,6 +1,6 @@
 ## Sounds
 
-![synth](/images/sounds.png)
+![synth](images/sounds.png)
 
 Ever since I was a child, I loved sounds. My father used to be some sort of a music freak of the time, always on the hunt for music he liked. Hence, I was exposed to quite varied music like Vangelis, Jean-Michel Jarre, Pink Floyd, Led Zeppelin, disco music of the 80’s, some pop stuff and a lot of ambiental music. Over the years, I’ve played with computers, drums, guitars and synths (virtual and, lately, physical devices) in order to chase sounds and try to express myself in different ways. I have no formal musical training and everything I do is mostly self-taught.
 
