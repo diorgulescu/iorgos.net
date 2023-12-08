@@ -1,0 +1,4 @@
+baseURL = 'https://training.iorgos.net/'
+languageCode = 'en-us'
+title = 'Jurnal de antrenament'
+theme = 'archie'

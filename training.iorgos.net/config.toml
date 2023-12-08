@@ -1,0 +1,47 @@
+baseURL = "https://training.iorgos.net"
+languageCode = "en-us"
+title = "Jurnal de antrenament"
+theme="archie"
+copyright = "© Dragoș Iorgulescu"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	useCDN=false
+	subtitle = "O parte dintre antrenamentele prin care trec"
+
+[[params.social]]
+name = "Mastodon"
+icon = "mastodon"
+url = "https://github.com/athul/archie"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/athulcajay/"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://gitlab.com/athul/"
+
+[[menu.main]]
+name = "Acasă"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Toate"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Despre"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Categorii"
+url = "/tags"
+weight = 4

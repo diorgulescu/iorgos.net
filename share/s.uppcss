@@ -1,4 +1,4 @@
-body{font-family:Georgia,serif;font-size: 16px;line-height: 25px;color:black; background-color:gainsboro; max-width: 85%; margin: auto;}
+body{font-family:Monaco,"Lucida Console",monospace;font-size: 16px;line-height: 25px;color:black; background-color:lavenderblush; max-width: 1000px;width:90%; margin: auto;}
 p{text-align:justify;}
 div.emojis{font-size:25px;text-align: center;}
 div#header{margin-bottom: 3em;}
