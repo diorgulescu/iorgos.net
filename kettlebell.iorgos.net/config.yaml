@@ -1,0 +1,106 @@
+baseURL: https://kettlebell.ro
+languageCode: ro
+defaultContentLanguage: ro
+title: Kettlebell.ro
+theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  description: Despre „sala” din mâna ta 
+  homeMetaContent: Cu și despre kettlebell-uri.
+  footer: Site creat cu [Hugo](https://gohugo.io/) | Tema [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme) | Găzduit cu drag pe [NameBox.ro](https://my.namebox.ro/aff.php?aff=505) |
+    # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  codePenUser: someUser
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  moveFooterToHeader: false
+  # navTitleText: Cupper Theme
+  logoAlt: 
+  customCss:
+    - css/custom_01.css
+    - css/custom_02.css
+  customJs:
+    - js/custom_01.js
+    - js/custom_02.js
+  utterances:
+    repo: username/username.github.io
+    issueTerm: title
+    theme: github-light
+
+menu:
+  nav:
+    - name: Acasă
+      url: /
+      weight: 1
+    - name: Despre
+      url: /despre/
+      weight: 2
+    - name: Blog
+      url: /blog/
+      weight: 3
+    - name: Istorie
+      url: /istorie/
+      weight: 4
+    - name: Antrenamente
+      url: /antrenamente/
+      weight: 5
+    - name: Sala de acasă
+      url: /sala-acasa/
+      weight: 6
+    - name: Sala „portabilă”
+      url: /sala-portabila/
+      weight: 7
+    - name: Pâine
+      url: /paine/
+      weight: 8
+    - name: Miere
+      url: /miere/
+      weight: 9
+    - name: RSS
+      url: /index.xml
+      weight: 10
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2

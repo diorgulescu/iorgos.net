@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kettlebell.ro</title>
+    <link>https://kettlebell.ro/</link>
+    <description>Recent content on Kettlebell.ro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <lastBuildDate>Wed, 24 May 2023 16:21:44 +0300</lastBuildDate><atom:link href="https://kettlebell.ro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Istorie</title>
+      <link>https://kettlebell.ro/istorie/</link>
+      <pubDate>Tue, 08 Aug 2023 07:19:40 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/istorie/</guid>
+      <description>qweqwewqe wqe wq ewq eqw</description>
+    </item>
+    
+    <item>
+      <title>Despre</title>
+      <link>https://kettlebell.ro/despre/</link>
+      <pubDate>Thu, 03 Aug 2023 16:34:32 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/despre/</guid>
+      <description>qwewqewqeqw e eqw ewq e qw eqw</description>
+    </item>
+    
+    <item>
+      <title>De ce să optezi pentru o „sală” la domiciliu</title>
+      <link>https://kettlebell.ro/sala-acasa/de-ce-sala-domiciliu/</link>
+      <pubDate>Thu, 03 Aug 2023 15:59:43 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/sala-acasa/de-ce-sala-domiciliu/</guid>
+      <description>Am nevoie? Păi, depinde. Probabil că, din moment ce ai ajuns până aici, ți-ai ridicat deja problema și încerci să te documentezi puțin. O listă de posibile motive/argumente în favoarea amenajării unui spațiu de antrenament la domiciliu ar fi:
+Independența Proximitatea Foarte puțin timp liber </description>
+    </item>
+    
+    <item>
+      <title>Ideea</title>
+      <link>https://kettlebell.ro/sala-portabila/sala-portabila/</link>
+      <pubDate>Thu, 03 Aug 2023 15:52:33 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/sala-portabila/sala-portabila/</guid>
+      <description>De unde și până unde? </description>
+    </item>
+    
+    <item>
+      <title>De Ce Kettlebell</title>
+      <link>https://kettlebell.ro/blog/de-ce-kettlebell/</link>
+      <pubDate>Tue, 30 May 2023 11:37:59 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/blog/de-ce-kettlebell/</guid>
+      <description>Pentru că e cel mai șmecheros :D</description>
+    </item>
+    
+    <item>
+      <title>Sala Portabilă</title>
+      <link>https://kettlebell.ro/blog/sala-portabila/</link>
+      <pubDate>Tue, 30 May 2023 11:30:43 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/blog/sala-portabila/</guid>
+      <description>Ce e aia?!</description>
+    </item>
+    
+  </channel>
+</rss>

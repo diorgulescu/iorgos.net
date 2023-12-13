@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kettlebell.ro</title>
+    <link>https://kettlebell.ro/blog/</link>
+    <description>Recent content in Blog on Kettlebell.ro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language><atom:link href="https://kettlebell.ro/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De Ce Kettlebell</title>
+      <link>https://kettlebell.ro/blog/de-ce-kettlebell/</link>
+      <pubDate>Tue, 30 May 2023 11:37:59 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/blog/de-ce-kettlebell/</guid>
+      <description>Pentru că e cel mai șmecheros :D</description>
+    </item>
+    
+    <item>
+      <title>Sala Portabilă</title>
+      <link>https://kettlebell.ro/blog/sala-portabila/</link>
+      <pubDate>Tue, 30 May 2023 11:30:43 +0300</pubDate>
+      
+      <guid>https://kettlebell.ro/blog/sala-portabila/</guid>
+      <description>Ce e aia?!</description>
+    </item>
+    
+  </channel>
+</rss>
