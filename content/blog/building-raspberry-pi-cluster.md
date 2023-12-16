@@ -1,6 +1,9 @@
-## My first Raspberry Pi cluster
-
-*12.05.2020*
+---
+title: "Building my first Raspberry Pi cluster"
+date: 2020-05-12
+draft: false
+author: Dragoș Iorgulescu
+---
 
 ### Why?
 I did own some Raspberry Pi boards in the past and I found them quite appealing. With the launch of the 4th generation and the rise of the whole Kubernetes ecosystem, I decided to give it a try and learn how to build a low-powered cluster using these boards. Also, Raspberry Pi 4 offers a version with 8 GB of RAM and VMWare launched a "test version" for ARM64 CPUs, therefore I had to try it.

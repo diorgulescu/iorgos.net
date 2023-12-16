@@ -1,6 +1,9 @@
-## Șoferii grăbiți și scaunele auto pentru copii
-
-*03.05.2021*
+---
+title: "Șoferii grăbiți și scaunele auto pentru copii"
+date: 2021-05-03
+draft: false
+author: Dragoș Iorgulescu
+---
 
 ![Bubu](/images/bubu.jpg)
 

@@ -11,10 +11,19 @@ Serios, uite-aci niște exemple (fără a face reclamă cuiva), ba chiar unele d
 
 ![bath2](/images/bath_2.jpg)
 
+![bath1](/images/bath_1.jpg)
 
+![imorom](/images/imorom.png)
 
+![amira](/images/amira.png)
+
+![bath3](/images/bath_3.jpg)
+
+![ac1](/images/ac1.jpg)
 
 La naiba, până și pe cutia unui ventilator ce-mi alină atmosfera pe timp de caniculă e aceeași idee. Ia uite-o, ea zice: „Aaaaa...răcoare, în sfârșit!”, iar el e ceva de genul: „Ei, vezi? E? E OK? Mai ai nevoie de ceva? Ești mai bine?”
+
+![vent](/images/vent.jpg)
 
 Păi, ai putea spune că-i simplu: bărbații se ocupă de sanitare și amenajări. Doar că nu-i atât de trivial. Orice tip care își împarte viața și casa cu-o femeie știe că nu el este cel ce decide ce culoare și model va avea gresia din baie, ce culoare vor avea jaluzelele ori ce mânere să pui la mobila din bucătărie. Să fim sinceri, că dacă era după noi, trăiam înconjurați de câteva dulapuri metalice, chiuvetele erau ca alea din tablă de le mai vezi prin camping-urile vechi iar pe jos aveam linoleum. Nu mai zic de cromatică, deoarece carcalete mai inedit de culori incompatibile cu greu poți găsi altundeva decât în casa unui bărbat singur.
 

@@ -1,6 +1,10 @@
-## When a tool becomes an addictive drug
+---
+title: "When a tool becomes an addictive drug"
+date: 2019-10-06
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*06.10.2019*
 
 Let’s take a second and imagine that you’ve just called in a plumber to fix a broken pipe in your bathroom. The guy arrives and starts unpacking all the things he will need in order to deal with your issue. But when he reaches for the wrench, instead of actually using it, he starts grining and looking at it as if he is experiencing true awe. Maybe he silently moans as he contemplates the handles and ruggedness of cold forged steel. He is so distracted and enamoured with that wrench that he forgets why he came there for in the first place, and when he finally starts working, he rushes everything and does a job not much better than what you would have done, with duct tape and a cloth. And if you dare say anything about that, prepare for a whirlwind.
 

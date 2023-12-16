@@ -1,6 +1,10 @@
-## Aliases & Profiles in PowerShell
+---
+title: "Aliases & Profiles in PowerShell"
+date: 2020-02-12
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*12.02.2021*
 
 Coming from a Linux background, I found myself looking for a way to define aliases in PowerShell. You know, like one does in bash, sh and the likes. PowerShell is one environment I believe people should understand and know how to use, at least at the bare functional level. It really does not matter if you prefer to use bash or tchor other UNIX CLIs. The truth is we live & work in mixed environments and it’s worth knowing how to orient yourself in a “mixed situation”.
 

@@ -1,6 +1,10 @@
-## Telefonul
+---
+title: "Telefonul"
+date: 2021-05-31
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*31.05.2021*
 
 De fapt, nu mai este doar un telefon. Telefonul a devenit o funcție minoră, pierdută printre multe altele mai frumos colorate și mai dătătoare de dependență. Eclipsat de conveniența unei comunicări asincrone prin mesaje scurte private de orice emoție, nuanțe și ton, funcția (sau progrămelul/aplicația) „Phone” / „Telefon” pare că a supraviețuit grație vârstei producătorilor, care au prins așa ceva cu ani în urmă, când lumea nu se ferea de-a vorbi mai des. „Telefon” încă îi mai spunem noi, ăștia „bătrâni și demodați”.
 

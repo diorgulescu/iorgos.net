@@ -6,9 +6,9 @@ main:                # sections in the website sidebar
     url: /           # path to the section
     weight: 1        # order of sections
 
-  - identifier: about
-    name: About
-    url: /about/
+  - identifier: kettlebell
+    name: Kettlebells
+    url: https://kettlebell.iorgos.net
     weight: 2
 
   - identifier: sounds
@@ -25,11 +25,6 @@ main:                # sections in the website sidebar
     name: Search
     url: /search/
     weight: 5
-
-  - identifier: contact
-    name: Contact
-    url: /contact/
-    weight: 6
 
   - identifier: github
     name: GitHub Profile

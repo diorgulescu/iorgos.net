@@ -1,12 +1,16 @@
-## Ricing is the illusion of productivity
+---
+title: "Ricing is the illusion of productivity"
+date: 2021-03-24
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*24.03.2021*
 
 Going "hardcore ultra-minimal" like others do might not suit you. And that's a good thing.
 
 Well, the title might seem a bit too generic, but bare with me because I’ll try to make things clear.
 
-### A bit of history
+## A bit of history
 
 I have been using Linux for quite a long time. I first touched it during highschool and ended up learning how to dual boot my PC with Windows 2000 & Red Hat Linux 5 (not RHEL, but the old distro). I was hooked and amazed, even though at the time kernel 2.2.x was still the one who ruled the Linux kingdom and 2.4.x was being developed (boy, was I a happy kid when I succeded in compiling a 2.4.1 kernel that supported my audio card!). It fascinated me since day one. Years went by and I began studying and playing with other distributions and also FreeBSD. In 2005 I managed to land my first job as a Junior QA Engineer. It was the result of quite a few months and years of sleepless summer nights in which I sat at my PC and devoured man pages & how-tos for BASH, Perl and Linux in general (and playing Diablo 2, Warcraft 2, Heroes of Might And Magic 3 & Counterstrike on my LAN).
 
@@ -14,7 +18,7 @@ My first week at the new job was allocated for an initation ritual in order to b
 
 I’ve told you this story only because I love reliving it, but there is a small link to the present day.
 
-### The “Ricing virus”
+## The “Ricing virus”
 
 For the past 3 years, I’ve been posessed by the obsession of finding the perfect minimalist Linux distribution & the ideal setup. Of course, things are wildly different in 2020 compared to 2005 (Heck! 15 years passed already?!) and my needs have changed. Around 2017 I’ve made some changes in my personal life and work habbits (greatly influenced by the writings of Cal Newport on “deep work”). Minimal window managers looked very appealing and I went through i3 & dwm, the later being used for more than one year. I even made a script to build a custom Ubuntu 18.04-based distribution, focused on a minimal set of packages and almost all suckless.org utilities.
 
@@ -26,7 +30,7 @@ But people working in systems administration & DevOps would tell you that by jus
 
 Anyway, after purchasing a new laptop and experiencing some sort of an inner dialectical dispute, I’ve done a bit of “distro hopping”. And, suddently, I felt nothing.
 
-### An epiphany (or some word like that)
+## An epiphany (or some word like that)
 
 Something was off and I was not getting any satisfaction in tinkering with tools. I realised I had become obsessed with the tools and ignoring things that would make me better. Of course, all this tinkering did teach me a lot of stuff and I am greatful for having the opportunity to learn all that. But gaining that knowledge proves nothing more than an interesting mental exercise.
 
@@ -40,7 +44,7 @@ Anyway, Linux aside, FreeBSD is very close to my heart for a lot of reasons. The
 
 So, I remain faithful to FreeBSD when it comes to my lab and servers (along with NetBSD). That’s a different story, a totally different use case with quite different goals. For now, I’ll stick to Linux on my laptop. I also use this for lightweight photo editing “on the go” and it runs great. As for the distro I’ve been sticking with, it’s openSuSE. I wrote about this briefly once before. It just works. Yes, I do use KDE Plasma and I love it. YaST is one great tool and the main thing I truly appreciate about SuSE is their ability to properly build a system, not just a kernel with a collection of binaries thrown together.
 
-### Lessons learned
+## Lessons learned
 
 + ```systemd``` is quite a pain in the butt, but it’s being used on a large scale in quite various environments so it’s useful to know how it works and get that under your belt, especially if you work in IT (since you’ll encounter a variety of systems & configurations along the way); it’s also a very useful tool for server environments, where stuff fails and devices are hot-swapped, and having a mechanism like systemd allows for things to automatically get back to normal in a production environment; and I also think that mass virtualization & container use would not be feasible without something like systemd
 + Linux is not perfect, but no OS is perfect. Finding the right distribution that suits you and your needs alone is the way to go. Forget everything else and stop feeling bad for your own tastes & ways of working

@@ -1,8 +1,11 @@
-## Cum mi-am găsit Nordul
+---
+title: "Cum mi-am găsit Nordul"
+date: 2019-07-29
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*29.07.2019*
-
-![synth](/images/horodistea.jpg)
+![nord](/images/horodistea.jpg)
 
 Singurătatea este adesea acută atunci când ești înconjurat de foarte mulți oameni. În furnicarul unui mare oraș, relaționarea cu cei din jur devine foarte dificilă, iar construirea noilor prietenii tinde spre imposibil. Cu toții tânjim după autoizolare și ideea de-a ne cunoaște vecinii de bloc ne sperie, rămânându-ne doar împodobirea propriilor colivii cu vise la preț redus și țeluri fără noimă care nici măcar nu ne aparțin. Astfel, călătoria mea în căutarea sensului și apartenenței a luat naștere dintr-o profundă dezorientare, la un loc cu absența unei busole morale cu adevărat funcționale.
 

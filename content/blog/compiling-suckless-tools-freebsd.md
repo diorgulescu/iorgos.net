@@ -1,4 +1,9 @@
-## Compiling ‘suckless tools’ on FreeBSD
+---
+title: "Compiling ‘suckless tools’ on FreeBSD"
+date: 2019-10-23
+draft: false
+author: Dragoș Iorgulescu
+---
 
 I wrote this tutorial for potential new users that want to try out new stuff and wish to expand their technical knowledge, but also because there are some commands and details around here I might forget some months or years down the line (for example, Xorg video driver configurations). The whole writing process was a very good opportunity for me to extend the CSS I used for my website and to try do to a better job at formatting tech/code/console-related text. I would be glad if someone else found these instructions useful.
 

@@ -1,4 +1,10 @@
-## Păcăneaua din buzunar
+---
+title: "Păcăneaua din buzunar"
+date: 2020-05-10
+draft: false
+author: Dragoș Iorgulescu
+---
+
 
 Probabil că orice om care a folosit sau folosește un smartphone și mai are și cont pe vreo rețea socială (indiferent care ar fi aceasta) a avut de-a face cu minute bune sau chiar ore în care nu a făcut nimic altceva decât să scrolleze aiurea prin feed. De cele mai multe ori, utilizatorul pleacă de la impulsul de a verifica rapid ceva: vreo poză nouă de la un prieten aflat într-o călătorie, actualizări pe pagina vreunui eveniment, etc. În foarte scurt timp, acesta ajunge să consume conținut pus pe masă de aplicația rețelei sociale pe care-o folosește (de cele mai multe ori este Facebook). Se îndepărtează total de ideea inițială sau chiar uită ce dorea să caute de la bun început.
 

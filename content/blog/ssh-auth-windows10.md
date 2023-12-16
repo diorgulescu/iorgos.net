@@ -1,8 +1,12 @@
-## SSH key-based authentication in Windows 10 (using no password)
+---
+title: "SSH key-based authentication in Windows 10 (using no password)"
+date: 2020-11-01
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*01.11.2020*
 
-I found this solution here: []. Thanks a lot for that! Just adding this to my own “docs base” for personal future reference.
+I found this solution online, but I fail to remember where. Thanks a lot for that! Just adding this to my own “docs base” for personal future reference.
 
 Working with Linux/UNIX machines, I rely a lot on SSH. Thus, not having to type passwords each time I open a new session is a great plus. Achieving this on Linux systems is trivial, since you have the ssh-copy-id command at hand. But, on Windows, that’s missing. Luckily, there is a (logical) way around that, instead of adding keys by hand in the remote server’s authorized_keys file (like I used to do). Below you can see how a new RSA key is generated and then copied to the remote host using a one-liner:
 ```

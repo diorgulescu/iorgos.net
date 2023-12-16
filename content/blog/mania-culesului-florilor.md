@@ -1,6 +1,10 @@
-## Mania culesului florilor
+---
+title: "Mania culesului florilor"
+date: 2021-02-24
+draft: false
+author: Dragoș Iorgulescu
+---
 
-*24.02.2021*
 
 Am crescut prin cartierul muncitoresc Titan din București, într-o zonă dominată de blocuri cu patru etaje prin fața cărora se desfășurau grădini mari cu copaci variați și bogați (cireși, vișini, corcoduși, plopi, pruni, chiar și doi piersici), tufe de toate felurile și flori. Nu existau mașini și toată suflarea cartierului era unită prin acel liant nevăzut și mare Domolitor de Ego pe nume „sărăcie” (raportat la standardul din prezent, căci atunci nu percepeam lucrurile astfel). Cântecul păsărilor de orice fel era la ordinea zilei (mierle, cucuvele, pitulici, ciori, ciocănitori, pițigoi, etc.), la fel cum era și mirosul florilor ce creșteau (mai mult sau mai puțin la voia întâmplării) prin grădini.
 

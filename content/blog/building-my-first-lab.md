@@ -1,9 +1,16 @@
-### The very FIRST “incarnation”
+---
+title: "Building my first homelab"
+date: 2020-02-10
+draft: false
+author: Dragoș Iorgulescu
+---
+
+## The very FIRST “incarnation”
 ![Example image](/images/homelab/ansamblu.jpg)
 A discreet homelab, hidden away from curious toddlers' hands
 
 image
-#### Network diagram
+### Network diagram
 
 This was also the largest one, of course. I was overly-enthusiastic and didn’t really have any precise goals. A Raspberry Pi cluster was also included, because I found the idea to be very fascinating and cool.
 
@@ -33,7 +40,7 @@ image 	image 	image
 
 The ex-desktop (now server) running Proxmox VE can be seen in the third photo
 
-#### What did I use it for?
+### What did I use it for?
 
 Well, the Supermicro server had VMWare ESXi installed on it. pfSense ran in a VM and was binded to three physical NICs on the server (named WAN, LAB & CLUSTER). This VM handled Internet traffic coming through from the crappy router provided by my ISP. I also ran a few other lightweight VMs on this server, like Pi-hole & Alpine Linux.
 
